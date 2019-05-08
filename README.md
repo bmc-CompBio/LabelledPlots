@@ -30,7 +30,6 @@ This is a Shiny app to create scatterplots with several labeling options.
 ## Examples
 
 
-
 <img src="README_files/figure-html/unnamed-chunk-1-1.png" style="display: block; margin: auto auto auto 0;" />
 
 

@@ -32,7 +32,6 @@ This is a Shiny app to create scatterplots with several labeling options.
 ## Examples
 
 
-
 ```{r, echo=FALSE, dpi=300, fig.align='left'}
 library(png)
 
