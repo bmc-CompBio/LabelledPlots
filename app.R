@@ -1,12 +1,9 @@
 
 
 
-# install.packages(c("shiny", 
-#                    "shinydashboard", 
-#                    # "RColorBrewer", 
-#                    # "ggplot2", 
-#                    # "grid", 
-#                    # "gridExtra", 
+# install.packages(c("shiny",
+#                    "shinydashboard",
+#                    "ggrepel",
 #                    "gdata"))
 
 
@@ -14,10 +11,6 @@
 
 library(shiny)
 library(shinydashboard)
-# library(RColorBrewer)
-# library(ggplot2)
-# library(grid)
-# library(gridExtra)
 library(gdata)
 library(ggrepel)
 

@@ -21,8 +21,11 @@ This is a Shiny app to create scatterplots with several labeling options.
 ## Usage
 
 * Use the online version (slower): https://tschauer.shinyapps.io/LabledPlots/
-* Download the app.R file and install the required packages (see in the file)
 
+* Download the app.R file
+* Open the file in RStudio
+* Install the required packages (see in the file)
+* Run app
 
 ## Examples
 
