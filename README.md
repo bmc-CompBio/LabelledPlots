@@ -8,7 +8,7 @@ output:
 
 
 
-##LabeledPlot
+## LabeledPlot
 
 This is a Shiny app to create scatterplots with several labeling options.
 
@@ -18,11 +18,11 @@ This is a Shiny app to create scatterplots with several labeling options.
 * Output: pdf - further adjustable
 
 
+## Example
+
+
 
 ![](README_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
 
-
-<!-- <img src="example1.png" width="250px"> -->
-<!-- <img src="example2.png" width="250px"> -->
 
 

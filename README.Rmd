@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-##LabeledPlot
+## LabeledPlot
 
 This is a Shiny app to create scatterplots with several labeling options.
 
@@ -20,14 +20,17 @@ This is a Shiny app to create scatterplots with several labeling options.
 * Output: pdf - further adjustable
 
 
+## Example
 
-```{r, echo=FALSE}
+
+
+```{r, echo=FALSE, dpi=300}
 library(png)
 
 example1 <- readPNG("example1.png")
 example2 <- readPNG("example2.png")
 
-par(mfrow=c(1,2))
+par(mfrow=c(1,2), mar=c(6,3,2,0), oma=c(0,0,0,0))
 
 plot(0:1,0:1, type='n', xlab="", ylab="", xaxt="n", yaxt="n", bty="n")
 rasterImage(example1, xleft = 0, ybottom = 0, xright = 1, ytop = 1)
@@ -38,8 +41,5 @@ rasterImage(example2, xleft = 0, ybottom = 0, xright = 1, ytop = 1)
 
 ```
 
-
-<!-- <img src="example1.png" width="250px"> -->
-<!-- <img src="example2.png" width="250px"> -->
 
 
