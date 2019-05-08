@@ -20,11 +20,17 @@ This is a Shiny app to create scatterplots with several labeling options.
 * Output: pdf - further adjustable
 
 
-## Example
+## Usage
+
+* Use the online version (slower): https://tschauer.shinyapps.io/LabledPlots/
+* Download the app.R file and install the required packages (see in the file)
+
+
+## Examples
 
 
 
-```{r, echo=FALSE, dpi=300}
+```{r, echo=FALSE, dpi=300, fig.align='left'}
 library(png)
 
 example1 <- readPNG("example1.png")
