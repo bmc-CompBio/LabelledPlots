@@ -1,5 +1,5 @@
 ---
-title: "LabeledPlot"
+title: "README"
 output: 
     html_document:
         keep_md: true
@@ -7,6 +7,8 @@ output:
 
 
 
+
+##LabeledPlot
 
 This is a Shiny app to create scatterplots with several labeling options.
 

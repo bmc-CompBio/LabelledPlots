@@ -1,5 +1,5 @@
 ---
-title: "LabeledPlot"
+title: "README"
 output: 
     html_document:
         keep_md: true
@@ -9,6 +9,8 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
+##LabeledPlot
 
 This is a Shiny app to create scatterplots with several labeling options.
 
