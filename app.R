@@ -536,7 +536,7 @@ server <- function(input, output) {
                       #                               stringsAsFactors = FALSE
                       # )
                       
-                      my_data_columns <- read.xls("test_HMR.xlsx", sheet = 1, 
+                      my_data_columns <- read.xls("test_data.xlsx", sheet = 1, 
                                                   header = TRUE, row.names = NULL, 
                                                   stringsAsFactors = FALSE, na.strings = "")
                       
