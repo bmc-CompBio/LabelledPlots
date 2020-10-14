@@ -1,13 +1,3 @@
----
-title: "README"
-output: 
-    html_document:
-        keep_md: true
----
-
-
-
-
 ## LabeledPlot
 
 This is a Shiny app to create scatterplots with several labeling options.
